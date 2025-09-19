@@ -4,15 +4,11 @@
 	<br/>
 	<div><b>An experimental smart contract blockchain network</b></div>
 	<br/>
-	<a href="https://github.com/nguyenphuminh/JeChain/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-blue.svg"/></a>
-	<a href="https://github.com/nguyenphuminh/JeChain/releases"><img src="https://img.shields.io/github/package-json/v/nguyenphuminh/JeChain?label=stable"></a>
-	<a href="https://github.com/nguyenphuminh/JeChain/blob/main/.github/PULL_REQUEST_TEMPLATE.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
-	<a href="https://github.com/nguyenphuminh/JeChain/stargazers"><img src="https://img.shields.io/github/stars/nguyenphuminh/JeChain?color=gold"></a>
 </div>
 
 ## What is JeChain?
 
-JeChain is a blockchain network platform that supports smart contracts and can act as a payment system/cryptocurrency. It is originally and still is made for experimental and educational purposes, you can have a brief look at its core ideas through its [**outdated** and unfinished whitepaper](https://nguyenphuminh.github.io/jechain-whitepaper.pdf).
+JeChain is a blockchain network platform that supports smart contracts and can act as a payment system/cryptocurrency. It is originally and still is made for experimental and educational purposes, you can have a brief look at its core ideas through its **outdated** and unfinished whitepaper.
 
 
 ## Setup a node
@@ -28,7 +24,7 @@ A system that is running Windows, Linux, or MacOS with a dual-core CPU and 8GB o
 
 ### Installation
 
-First, download the latest release from: https://github.com/nguyenphuminh/JeChain/releases.
+First, download the latest release.
 
 Extract the zip file, in the `JeChain` folder, open up your terminal and install the required packages through `npm`:
 
@@ -122,6 +118,6 @@ JeChain is 100% open-source, but if you are integrating its source code into you
 
 ## Copyrights and License
 
-Copyrights © 2021 Nguyen Phu Minh.
+Copyrights © 2025 Le Hieu.
 
 This project is licensed under the GPL 3.0 License.
