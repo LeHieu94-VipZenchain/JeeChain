@@ -94,7 +94,7 @@ Remember to only use it for experimental purposes, I can not guarantee that this
 
 ## How "ready" is JeChain?
 
-JeChain is currently at the stage of "having all the basic things work", there are a lot of optimizations and things to implement to make it even near production-ready. To see what I am doing, check out JeChain's todo list: https://github.com/nguyenphuminh/JeChain/projects/3
+JeChain is currently at the stage of "having all the basic things work", there are a lot of optimizations and things to implement to make it even near production-ready. To see what I am doing, check out JeChain's todo list: 
 
 ### What do we currently have specifically?
 
